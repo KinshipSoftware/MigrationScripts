@@ -1,0 +1,3 @@
+svncommitname = git commit name <commit.name@example.com>
+(no author) = Unknown <example@example.com>
+
